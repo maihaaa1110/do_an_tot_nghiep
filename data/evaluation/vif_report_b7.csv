@@ -1,0 +1,14 @@
+Feature,VIF,protected,note
+ROA,2.25,True,PROTECTED
+TATO,1.64,False,
+QR,1.38,False,
+NPM,1.37,False,
+ROA_lag4,1.36,False,
+ICR,1.29,False,NaN by design
+ROA_lag1,1.24,True,PROTECTED
+SIZE,1.15,True,PROTECTED
+REV_GROWTH_YOY,1.14,False,
+DAR,1.12,True,PROTECTED
+ITO,1.07,False,
+FCF_TA,1.05,False,
+has_debt,1.0,False,NaN by design

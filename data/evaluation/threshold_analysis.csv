@@ -1,0 +1,4 @@
+Strategy,Threshold,Precision,Recall,F1,Acc,N_positive
+Default  (0.50),0.5,0.58,0.541,0.559,0.665,69
+Youden's J,0.419,0.59,0.622,0.605,0.681,78
+F1-optimal,0.242,0.466,0.932,0.622,0.553,148

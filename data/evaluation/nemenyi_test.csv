@@ -1,0 +1,16 @@
+model_a,model_b,mean_rank_a,mean_rank_b,rank_diff,CD,significant,better
+GBM,LR_L1,2.625,5.25,2.625,2.6659,False,ns
+GBM,LR_L2,2.625,4.625,2.0,2.6659,False,ns
+GBM,RF,2.625,2.25,0.375,2.6659,False,ns
+GBM,SVM,2.625,3.625,1.0,2.6659,False,ns
+GBM,XGB,2.625,2.625,0.0,2.6659,False,ns
+LR_L1,LR_L2,5.25,4.625,0.625,2.6659,False,ns
+LR_L1,RF,5.25,2.25,3.0,2.6659,True,RF
+LR_L1,SVM,5.25,3.625,1.625,2.6659,False,ns
+LR_L1,XGB,5.25,2.625,2.625,2.6659,False,ns
+LR_L2,RF,4.625,2.25,2.375,2.6659,False,ns
+LR_L2,SVM,4.625,3.625,1.0,2.6659,False,ns
+LR_L2,XGB,4.625,2.625,2.0,2.6659,False,ns
+RF,SVM,2.25,3.625,1.375,2.6659,False,ns
+RF,XGB,2.25,2.625,0.375,2.6659,False,ns
+SVM,XGB,3.625,2.625,1.0,2.6659,False,ns
